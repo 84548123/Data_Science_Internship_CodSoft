@@ -1,0 +1,1 @@
+The Data Science Internship at Codsoft offers hands-on experience in data analysis, machine learning, and predictive modeling. Interns work with real-world datasets, developing algorithms, conducting data visualization, and applying statistical techniques. This role enhances practical skills, fosters innovation, and supports professional growth.
